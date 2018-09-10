@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "645040192727",
+    "firebase_url": "https://hamarbumpy-a22e5.firebaseio.com",
+    "project_id": "hamarbumpy-a22e5",
+    "storage_bucket": "hamarbumpy-a22e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645040192727:android:4b3903ade1e8c14e",
+        "android_client_info": {
+          "package_name": "clover.hamar_bumpy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645040192727-e0is591mm47ofvm4gr54akej37c0lt36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0b_MAhEyisx4G4ucA75mjtNnMcai7Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
